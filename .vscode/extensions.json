@@ -4,6 +4,7 @@
     "svelte.svelte-vscode",
     "ardenivanov.svelte-intellisense",
     "esbenp.prettier-vscode",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "vivaxy.vscode-conventional-commits"
   ]
 }
