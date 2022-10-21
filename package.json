@@ -8,7 +8,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "lint": "prettier --write ."
   },
   "dependencies": {
     "@astrojs/svelte": "^1.0.2",

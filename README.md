@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/mkeleti/acm-site">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
+    <img src="docs/images/logo.png" alt="Logo" width="100" height="100">
   </a>
 </h1>
 
@@ -28,43 +28,41 @@
 
 </div>
 
-
-
 ---
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
-
-
+This website serves as the homepage for the University of Kansas ACM.
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
+- Astro
+- Tailwindcss
+- Svelte
 
 ## Getting Started
 
 ### Prerequisites
 
-> **[?]**
-> What are the project requirements/dependencies?
+- Vscode - (optional) There are workspace settings and extensions preloaded
+- Node & NPM
 
 ### Installation
 
-> **[?]**
-> Describe how to install and get started with the project.
+1. `git clone <repo html>`
+2. `cd acm-site`
 
 ## Usage
 
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+- `yarn astro dev` - Run Dev Server on localhost
+
+- `yarn astro build` - Build HTML files
+
+- `yarn astro check` - Checks Astro files
+
+- `yarn astro preview` - Starts local file server
+
+- `yarn lint` - Formats files with prettier
 
 ## Roadmap
 
@@ -75,9 +73,6 @@ See the [open issues](https://github.com/mkeleti/acm-site/issues) for a list of 
 - [Newest Bugs](https://github.com/mkeleti/acm-site/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
-
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
 
 Reach out to the maintainer at one of the following places:
 
@@ -98,7 +93,6 @@ Together, we can make ACM@KU Website **better**!
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
-
 Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
 ## Authors & contributors
@@ -107,10 +101,8 @@ The original setup of this repository is by [Michael Keleti](https://github.com/
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/mkeleti/acm-site/contributors).
 
-
 ## License
 
 This project is licensed under the **MIT license**.
 
 See [LICENSE](LICENSE) for more information.
-
