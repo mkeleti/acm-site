@@ -46,11 +46,13 @@ This website serves as the homepage for the University of Kansas ACM.
 
 - Vscode - (optional) There are workspace settings and extensions preloaded
 - Node & NPM
+- Yarn
 
 ### Installation
 
 1. `git clone <repo html>`
 2. `cd acm-site`
+3. `yarn install`
 
 ## Usage
 
