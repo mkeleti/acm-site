@@ -41,6 +41,7 @@ If you are ever confused you can reference this documentation for each layer in 
 - [CSS, HTML, & JS](https://developer.mozilla.org/en-US/)
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [yarn](https://yarnpkg.com/getting-started)
+
 ## Issues and feature requests
 
 You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/mkeleti/acm-site/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!

@@ -5,5 +5,7 @@
   "conventionalCommits.autoCommit": true,
   "git.enableSmartCommit": true,
   "git.smartCommitChanges": "all",
-  "git.postCommitCommand": "sync"
+  "git.postCommitCommand": "sync",
+  "prettier.documentSelectors": ["**/*.astro"],
+  "conventionalCommits.scopes": ["yarn"]
 }

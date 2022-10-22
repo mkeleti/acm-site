@@ -64,7 +64,7 @@ This website serves as the homepage for the University of Kansas ACM.
 
 - `yarn preview` - Starts local file server
 
-- `yarn lint` - Formats files with prettier
+- `yarn format` - Formats files with prettier
 
 ## Roadmap
 

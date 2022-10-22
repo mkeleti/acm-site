@@ -6,5 +6,6 @@
     "esbenp.prettier-vscode",
     "bradlc.vscode-tailwindcss",
     "vivaxy.vscode-conventional-commits"
-  ]
+  ],
+  "unwantedRecommendations": ["dbaeumer.vscode-eslint"]
 }
