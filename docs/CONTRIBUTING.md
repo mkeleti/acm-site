@@ -31,6 +31,16 @@ To set up a development environment, please follow these steps:
 
 5. Use the [figma design](https://www.figma.com/file/jhFCstc5Z3CPgsujQxxMfv/ACM-Website?node-id=0%3A1) as a reference
 
+## Reference Documentation
+
+If you are ever confused you can reference this documentation for each layer in our stack
+
+- [Astro](https://docs.astro.build/en/getting-started/)
+- [Svelte](https://svelte.dev/docs)
+- [TailwindCSS](https://tailwindcss.com/docs/installation)
+- [CSS, HTML, & JS](https://developer.mozilla.org/en-US/)
+- [Typescript](https://www.typescriptlang.org/docs/)
+- [yarn](https://yarnpkg.com/getting-started)
 ## Issues and feature requests
 
 You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/mkeleti/acm-site/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
