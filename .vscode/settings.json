@@ -1,5 +1,9 @@
 {
   "editor.formatOnSaveMode": "file",
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "conventionalCommits.autoCommit": true,
+  "git.enableSmartCommit": true,
+  "git.smartCommitChanges": "all",
+  "git.postCommitCommand": "sync"
 }

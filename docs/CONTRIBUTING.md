@@ -4,10 +4,6 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## Development environment setup
 
-> **[?]**
-> Proceed to describe how to setup local development environment.
-> e.g:
-
 To set up a development environment, please follow these steps:
 
 1. Clone the repo
@@ -16,7 +12,22 @@ To set up a development environment, please follow these steps:
    git clone https://github.com/mkeleti/acm-site
    ```
 
-2. TODO
+2. Change directory and install packages
+
+   ```sh
+   cd acm-site
+   yarn install
+   ```
+
+3. Run the dev server
+
+   ```sh
+   yarn dev
+   ```
+
+4. Make commits often and use conventional commits
+
+![Instructions](images/conventionalcommit.png)
 
 ## Issues and feature requests
 

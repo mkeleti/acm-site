@@ -44,25 +44,25 @@ This website serves as the homepage for the University of Kansas ACM.
 
 ### Prerequisites
 
-- Vscode - (optional) There are workspace settings and extensions preloaded
+- Vscode - (optional) There are workspace settings and extensions preloaded to make development easier.
 - Node & NPM
 - Yarn
 
 ### Installation
 
-1. `git clone <repo html>`
+1. `git clone https://github.com/mkeleti/acm-site`
 2. `cd acm-site`
 3. `yarn install`
 
 ## Usage
 
-- `yarn astro dev` - Run Dev Server on localhost
+- `yarn dev` - Run Dev Server on localhost
 
-- `yarn astro build` - Build HTML files
+- `yarn build` - Build HTML files
 
-- `yarn astro check` - Checks Astro files
+- `yarn check` - Checks Astro files
 
-- `yarn astro preview` - Starts local file server
+- `yarn preview` - Starts local file server
 
 - `yarn lint` - Formats files with prettier
 
